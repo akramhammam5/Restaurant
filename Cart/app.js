@@ -34,19 +34,19 @@ let products = [
     },
     {
         id: 4,
-        name: 'PRODUCT NAME 4',
+        name: 'Cheese Soup',
         image: '4.PNG',
         price: 123000
     },
     {
         id: 5,
-        name: 'PRODUCT NAME 5',
+        name: 'Green Salad',
         image: '5.PNG',
         price: 320000
     },
     {
         id: 6,
-        name: 'PRODUCT NAME 6',
+        name: 'Pizza',
         image: '6.PNG',
         price: 120000
     }
