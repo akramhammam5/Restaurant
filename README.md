@@ -1,6 +1,6 @@
 # LibraryManagementSystem
 
-This is V1.0 of our Basic Restaurant Web Applicatuon using Django. This version is not going to be special it is just the Front-End.
+This is V1.0 of our Basic Restaurant Web Application using Django. This version is not going to be special it is just the Front-End.
 We will always keep the project updated with more advanced functions and UI. The project is still under development.
 
 
