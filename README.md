@@ -1,6 +1,6 @@
 # LibraryManagementSystem
 
-This is V1.0 of our Basic LibraryManagementSystem project using JAVA. This version is not going to be special it is just a Basic System without any GUI.
+This is V1.0 of our Basic Restaurant Web Applicatuon using Django. This version is not going to be special it is just the Front-End.
 We will always keep the project updated with more advanced functions and UI. The project is still under development.
 
 
