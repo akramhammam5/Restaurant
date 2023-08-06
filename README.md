@@ -21,9 +21,9 @@ To run this project just open it from any text editor or IDE. VScode is preferre
 
 ## Features
 
-- Fast 
+- Clean 
 - Easy To Use
-- Cross platform
+- Easy navigation
 
 
 
