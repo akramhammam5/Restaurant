@@ -1,4 +1,0 @@
---Step 1:
-    Django works as follows: Models -- views -- Templates where views take the models and templates then view it to the user...
---Step 2:
-    Django Template Language: A language used to interact with template files..
