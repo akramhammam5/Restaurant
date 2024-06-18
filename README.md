@@ -15,7 +15,7 @@ We will always keep the project updated with more advanced functions and UI. The
 
 ## Deployment
 
-To run this project just open it from any text editor or IDE. VScode is preferred.
+To run this project just open your terminal and type : pip install django after installing python-pip. After installing django go to the project's directory and type python manage.py makemigrations then python manage.py runserver
 
 
 
